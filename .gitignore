@@ -1,3 +1,4 @@
 programming_tutorial.*
 !programming_tutorial.tex
 .git
+.DS_Store
